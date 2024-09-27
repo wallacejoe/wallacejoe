@@ -1,16 +1,23 @@
-## Hi there 👋
+# Joseph Wallace
 
-<!--
-**wallacejoe/wallacejoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub!
 
-Here are some ideas to get you started:
+I'm Joseph Wallace, a student at Brigham Young University-Idaho interested in software engineering. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently focused on learning web development.
+- My goals are to develop my software skills and to create a supportive community of developers
+- Feel free to ask about my projects, past and current.
+
+## Technologies and Tools
+
+- Proficient in: React.js, Next.js, SEO, CSS, HTML, JavaScript, SQL, Git, and Troubleshooting.
+- Skills: Decision-making, Problem Solving, and Networking.
+
+## Let's Connect!
+
+- Here is my [LinkedIn](www.linkedin.com/in/wallace-joe) profile
+- Here is my [Facefook](https://www.facebook.com/profile.php?id=100090123442950) profile
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding!
